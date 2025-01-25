@@ -48,7 +48,6 @@ A collection of JavaScript helper functions to streamline development tasks.
 ### String
 - [generateCsvString](./lib/string/generateCsvString.js)
 - [generateRandomNumberString](./lib/string/generateRandomNumberString.js)
-- [identifyLanguage](./lib/string/identifyLanguage.js)
 - [removeSubstrings](./lib/string/removeSubstrings.js)
 - [validateId](./lib/string/validateId.js)
 
