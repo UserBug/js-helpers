@@ -1,5 +1,6 @@
 {
   "name": "js-helpers",
+  "description": "A set of helpers which will help in daily work.",
   "version": "1.0.0",
   "type": "module",
   "scripts": {},
@@ -31,5 +32,7 @@
   },
   "keywords": [],
   "homepage": "https://github.com/UserBug/js-helpers",
-  "description": ""
+  "exports": {
+    ".": "./lib/"
+  }
 }
