@@ -34,10 +34,8 @@ A collection of JavaScript helper functions to streamline development tasks.
 - [globalErrorHandler](./lib/globalErrorHandler.js)
 
 ### Logger
-- [constants](./lib/logger/constants.js)
+- [logger defaultOptions](./lib/logger/defaultOptions.js)
 - [createLogger](./lib/logger/createLogger.js)
-- [winstonConsoleTransport](./lib/logger/winstonConsoleTransport.js)
-- [winstonFileTransport](./lib/logger/winstonFileTransport.js)
 
 ### Network
 - [makeJsonRequest](./lib/network/makeJsonRequest.js)
